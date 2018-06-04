@@ -8,5 +8,6 @@ only if you don't want a behavior or you can not have one. then try this solutio
 
 # USEAGE:
 after initialize recyclerView instance. just invoke:  
+'''
 RecyclerView66996774Workaround.assistRcyclerView(recyclerview);  
-
+'''
